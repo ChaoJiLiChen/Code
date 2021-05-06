@@ -36,5 +36,11 @@
     <ClCompile Include="jiujiu.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组逆置交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

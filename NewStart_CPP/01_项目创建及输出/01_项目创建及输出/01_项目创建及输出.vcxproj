@@ -144,7 +144,9 @@
     <ClCompile Include="jiujiu.cpp" />
     <ClCompile Include="sanmu.cpp" />
     <ClCompile Include="sizeof.cpp" />
+    <ClCompile Include="冒泡排序.cpp" />
     <ClCompile Include="常量.cpp" />
+    <ClCompile Include="数组逆置交换.cpp" />
     <ClCompile Include="水仙花.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
